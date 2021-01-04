@@ -46,7 +46,7 @@ body {
 }
 
 .progress {
-  background-color: ;
+  background-color: var(--line-border-fill);
   position: absolute;
   transform: translateY(-50%);
   top: 50%;
